@@ -1,6 +1,7 @@
 apiVersion: v1
 data:
-  name: linuxcer
+  name: linuxcer-update
 kind: ConfigMap
 metadata:
   name: kube-test
+  
